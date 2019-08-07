@@ -19,7 +19,7 @@ then
         message_id=$(grep -in --color=always "Message-ID" "$fname")
         x_originating=$(grep -in --color=always "originating" "$fname")
         client_info=$(grep -in --color=always "client" "$fname")
-        spf_info=$(grep -in --color=always -A 2 "spf" "$fname")
+        spf_info=$(grep -n --color=always -A 2 "spf" "$fname")
 	first_hop=$(grep -in --color=always -B 3 "from: " "$fname")
         received=$(grep -in  --color=always -C  3 "received" "$fname")
         ip_addresses=$(grep -iEn --color=always "$pattern_ipv4" "$fname")
