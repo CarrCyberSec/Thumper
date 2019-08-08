@@ -5,7 +5,7 @@
 #Computer Emergency Response Team Intern at the Center for Internet Security
 #Any inquiries can be directed to: brian.carr@cisecurity.org
 #If you improve upon this script, I encourage you to share your results. 
-#42 72 69 61 6e 20 54 68 6f 6d 61 73 20 43 61 72 72 
+#62 72 69 61 6e 74 63 61 72 72 2e 63 6f 6d 0a 
 
 #Input File
 read -p "Enter File name...: " fname
