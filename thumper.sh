@@ -65,7 +65,7 @@ then
 	fi
 	if [ -z "$ipv6_address" ]
 	then
-		return
+		echo +++++++++++++++++++++++++++++++++++++++++++++++
 	else
 		echo The IPv6 addresses in context:
         	echo "$ipv6_address"
