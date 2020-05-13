@@ -12,7 +12,7 @@ Please use the program as the following:
 
 PLEASE NOTE - THERE IS NO MORE PROMPT FUNCTIONALITY
 
-Thank you. As always, feel free to reach out. brian@briantcar.com
+Thank you. As always, feel free to reach out. brian@briantcarr.com
 
 ____________________________________________
 Email header parser, successor of eml_raider
